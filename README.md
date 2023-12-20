@@ -1,4 +1,4 @@
-# EECS 731 Project 6 - D(St)reams of Anomalies
+# D(St)reams of Anomalies
 
 Data - Contains 2 csv files one for CPU_usage and another for NYC_taxi data downloaded from kaggle.
 
